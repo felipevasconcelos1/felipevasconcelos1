@@ -1,7 +1,7 @@
 ## Hey, I'm Felipe Vasconcelos!
 
 - 👀 I’m interested in anything involving computer science.
-- 🌱 I’m currently learning Python, Java and JavaScript.
+- 🌱 I’m currently learning Java and JavaScript.
 - 💞️ I’m looking to collaborate on python problems.
 - 📫 Email-me anytime 😅
 

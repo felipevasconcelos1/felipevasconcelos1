@@ -1,8 +1,8 @@
 ## Hey, I'm Felipe Vasconcelos!
 
 - 👀 I’m interested in anything involving computer science.
-- 🌱 I’m currently learning Java and JavaScript.
-- 💞️ I’m looking to collaborate on frontend problems.
+- 🌱 I’m currently learning Java and Spring.
+- 💞️ I’m looking to collaborate on backend problems.
 - 📫 Email-me anytime 😅
 
 <div align="center">
